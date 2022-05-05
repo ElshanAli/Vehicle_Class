@@ -1,0 +1,14 @@
+D:\This PC\Task_Vehicle\Task_Vehicle\obj\Debug\netcoreapp3.1\Task_Vehicle.csproj.AssemblyReference.cache
+D:\This PC\Task_Vehicle\Task_Vehicle\obj\Debug\netcoreapp3.1\Task_Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\This PC\Task_Vehicle\Task_Vehicle\obj\Debug\netcoreapp3.1\Task_Vehicle.AssemblyInfoInputs.cache
+D:\This PC\Task_Vehicle\Task_Vehicle\obj\Debug\netcoreapp3.1\Task_Vehicle.AssemblyInfo.cs
+D:\This PC\Task_Vehicle\Task_Vehicle\obj\Debug\netcoreapp3.1\Task_Vehicle.csproj.CoreCompileInputs.cache
+D:\This PC\Task_Vehicle\Task_Vehicle\bin\Debug\netcoreapp3.1\Task_Vehicle.exe
+D:\This PC\Task_Vehicle\Task_Vehicle\bin\Debug\netcoreapp3.1\Task_Vehicle.deps.json
+D:\This PC\Task_Vehicle\Task_Vehicle\bin\Debug\netcoreapp3.1\Task_Vehicle.runtimeconfig.json
+D:\This PC\Task_Vehicle\Task_Vehicle\bin\Debug\netcoreapp3.1\Task_Vehicle.runtimeconfig.dev.json
+D:\This PC\Task_Vehicle\Task_Vehicle\bin\Debug\netcoreapp3.1\Task_Vehicle.dll
+D:\This PC\Task_Vehicle\Task_Vehicle\bin\Debug\netcoreapp3.1\Task_Vehicle.pdb
+D:\This PC\Task_Vehicle\Task_Vehicle\obj\Debug\netcoreapp3.1\Task_Vehicle.dll
+D:\This PC\Task_Vehicle\Task_Vehicle\obj\Debug\netcoreapp3.1\Task_Vehicle.pdb
+D:\This PC\Task_Vehicle\Task_Vehicle\obj\Debug\netcoreapp3.1\Task_Vehicle.genruntimeconfig.cache
